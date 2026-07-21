@@ -1,0 +1,9 @@
+C:\Medisphere2\demo\src\main\java\com\demo\demo\advice\GlobalExceptionHandler.java
+C:\Medisphere2\demo\src\main\java\com\demo\demo\controller\ClinicalApiController.java
+C:\Medisphere2\demo\src\main\java\com\demo\demo\controller\UserController.java
+C:\Medisphere2\demo\src\main\java\com\demo\demo\DemoApplication.java
+C:\Medisphere2\demo\src\main\java\com\demo\demo\dto\LoginDto.java
+C:\Medisphere2\demo\src\main\java\com\demo\demo\models\Appointment.java
+C:\Medisphere2\demo\src\main\java\com\demo\demo\models\User.java
+C:\Medisphere2\demo\src\main\java\com\demo\demo\repositories\AppointmentRepository.java
+C:\Medisphere2\demo\src\main\java\com\demo\demo\repositories\UserRepo.java
